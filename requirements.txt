@@ -1,0 +1,4 @@
+FLASK
+numpy
+pandas
+scikit-learn
